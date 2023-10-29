@@ -11,11 +11,8 @@ For implementation of this project, I used VS Code which is a very good platform
 
 
 IDE: VS Code
-TECHNOLOGIES:	HTML
-			   			CSS
-					 	  JavaScript
-						  Rapid Weather APIs
-						  Unsplash APIs 
+
+TECHNOLOGIES: HTML, CSS, JavaScript, Rapid Weather APIs, Unsplash APIs 
 
 
 
